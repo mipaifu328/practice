@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "mipaifu328",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vitest": "^0.7.8"
+  }
+}
